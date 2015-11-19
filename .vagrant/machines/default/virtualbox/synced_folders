@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laravel-examples":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laravel-examples","hostpath":"C:/Users/ldalzovo/laravel-examples","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ldalzovo/laravel-examples","disabled":false}}}
