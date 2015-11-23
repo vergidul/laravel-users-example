@@ -1,11 +1,11 @@
 @extends('app')
 
 @section('title')
-New user
+Nuovo utente
 @stop
 
 @section('content')
-<h1>New user</h1>
+<h1>Nuovo Utente</h1>
 <hr />
 {!! Form::model($user = new \App\User, array('action' => 'UsersController@index')) !!}
 	@include('users.form', ['submitButtonText' => 'Save', 'create' => true])
